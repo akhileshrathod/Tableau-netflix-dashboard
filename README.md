@@ -1,1 +1,1 @@
-# netflix-dashboard
+The Netflix Dashboard is a data visualization project that showcases the TV shows and movies available on Netflix as of a certain date and the dashboard is built using Tableau. The goal of this project is to provide an interactive and visually appealing dashboard that allows the user to quickly and easily analyze the content available on Netflix. The dashboard includes several key metrics, such as the number of titles in different genres and countries, as well as various charts and graphs that show trends and patterns in the data.
